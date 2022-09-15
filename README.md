@@ -1,6 +1,5 @@
 # WebApps-F22-Assignment-3
 Assignment 3 - Basic HTML
 
-## My favorite museum to visit. 
-### National WWI Museum and Memorial
-The National WWI Museum and Memorial is America's leading institution dedicated to remembering, interpreting and understanding the Great War and its enduring impact on the global community. The Museum and Memorial holds the most comprehensive collection of World War I objects and documents in the world and is the second-oldest public museum dedicated to preserving the objects, history and experiences of the war. The Museum and Memorial takes visitors of **all ages** on an epic journey through a transformative period and shares deeply personal stories of courage, honor, patriotism and sacrifice. Designated by Congress as America's official **World War I** Museum and Memorial and located in downtown Kansas City, Mo., the National WWI Museum and Memorial inspires thought, dialogue and learning to make the experiences of the Great War era meaningful and relevant for present and future generations
+Hosted at 
+[Anudeep Nagothu] (https://44-563-web-apps-f22.github.io/44563-webapps-assignment-3-anudeepsagar/)
